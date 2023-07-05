@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Ejemplo1_CSharp_WebApp_MVC_20230516.props" />
+</Project>
